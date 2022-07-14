@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "experimentalDecorators": true,
+    "skipLibCheck": true,
+    "lib": ["es2020", "dom"],
+    "baseUrl": ".",
+    "typeRoots": [
+      "@types"
+    ]
+  }
+}
